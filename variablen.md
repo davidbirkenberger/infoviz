@@ -12,7 +12,7 @@
 Optional: Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
 
 - Geschlecht
-    - horizontale Geschlechterpyramide aggergiert für den FB über die Jahre
+    - horizontale Geschlechterpyramide aggregiert für den FB über die Jahre
 
 - Staatsangehörigkeit
     - Karte Heat
@@ -29,7 +29,7 @@ Optional: Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
     - Stacked Barchart
 - Beeinträchtigungen im Ablauf des Studiums
     - Radar Chart
-- Migrationshintergrund
+- Migrationshintergrund (David)
     - Line/Barchart
     - Gibt es andere Beeinträchtigungen?
 - Fachsemester
