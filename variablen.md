@@ -6,6 +6,8 @@
     - Heatmap
     - Linechart mit einzelnen markierten Lines
 
+- Optional: Rücklaufquote der einzelnen Fragen: Welche Fragen beantworten Studierende gerne. Bsp. Alter wird im  Vergleich nur von wenigen angegeben.
+
 - Alter (David)
     - Linechart mit 3 Alterskohorten pro Bachelor/Master
     - Stacked Barchart aggregiert über alle Studiengänge über die Jahre
