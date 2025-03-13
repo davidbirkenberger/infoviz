@@ -2,38 +2,49 @@
 
 
 - Rücklaufquote auf Studiengangsebene (Manu)
-    - Quote/Studiengang/Jahre
-    - Heatmap
-    - Linechart mit einzelnen markierten Lines
+    - Heatmap (noch schmaler machen)
+    - Stacked Barchart Absolute Entwicklung Facherbeichsgröße und Teilnahemanzahl
+    - Linechart Absoluter Rücklauf Bachelor vs Master
 
-- Optional: Rücklaufquote der einzelnen Fragen: Welche Fragen beantworten Studierende gerne. Bsp. Alter wird im  Vergleich nur von wenigen angegeben.
+- Angestrebter Studienabschluss (David)
+    - Linechart Absolute Anzahl Studierender Bachelor vs Master 
+    - Barchart Anzahl Studierende pro Studiengang 2024
+    - Piechart Top 4 Anzahl Studierende pro Studiengang 2024
+    - Treemap für alle Studiengänge
 
 - Alter (David)
-    - Linechart mit 3 Alterskohorten pro Bachelor/Master
-    - Stacked Barchart aggregiert über alle Studiengänge über die Jahre
-Optional: Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
+    - Alterspyramide 2012 und 2024
 
 - Geschlecht (Manu)
     - horizontale Geschlechterpyramide aggregiert für den FB über die Jahre
+    - TODO: grouped barchart (jeweils ein balken für geschlecht nebeneinander pro jahr) -> Manu
 
 - Staatsangehörigkeit (David)
-    - Karte Heat
-    - Karte Bubbles
-- Angestrebter Studienabschluss (David)
-    - Line bzw Barchart Master vs Bachelor u4ber die Jahre aggregiert für FB
-    - Treemap für alle Studiengänge
+    - Area Chart über die Jahre
+    - Linechart Master vs Bachelor über die Jahre
 
 - Zufriedenheit (Manu)
-    - Ridgelineplot (x:zufriedenheit, y:jahre)
-    - Stacked Barchart
+    - Stacked Barchart absolut
+    - TODO: Stacked Barchart relativ -> David
+
 - Subjektive Leistungseinschätzung (David)
-    - Bubble chart
-    - Stacked Barchart
+    - Stacked Barcharts
+
 - Beeinträchtigungen im Ablauf des Studiums (Manu)
     - Radar Chart
+    - TODO: sortierung in kategorie probieren (siehe unipaper) + Relativ machen -> Manu
+
 - Migrationshintergrund (David)
-    - Line/Barchart
-    - Gibt es andere Beeinträchtigungen?
-- Fachsemester (wer schneller fertig wird)
-    - Boxplots
-    - Alterspyramide
+    - Linechart relativ
+    - Linechart relativ Bachelor vs Master
+
+
+- Fachsemester (Manu)
+    - Jahresgenau Studiengangsgenau Stacked Barchart
+
+
+- Optional: 
+    - Rücklaufquote der einzelnen Fragen: Welche Fragen beantworten Studierende gerne. Bsp. Alter wird im  Vergleich nur von wenigen angegeben.
+    - Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
+    - Verschiedene Filter auf Radar Chart legen
+
