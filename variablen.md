@@ -26,6 +26,8 @@ Optional: Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
 - Zufriedenheit (Manu)
     - Ridgelineplot (x:zufriedenheit, y:jahre)
     - Stacked Barchart
+-> nehmen zufriedene eher teil oder nicht?
+
 - Subjektive Leistungseinschätzung (David)
     - Bubble chart
     - Stacked Barchart
@@ -34,6 +36,11 @@ Optional: Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
 - Migrationshintergrund (David)
     - Line/Barchart
     - Gibt es andere Beeinträchtigungen?
+
+
 - Fachsemester (wer schneller fertig wird)
     - Boxplots
     - Alterspyramide
+
+
+
