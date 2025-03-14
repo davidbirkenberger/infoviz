@@ -25,7 +25,6 @@
 
 - Zufriedenheit (Manu)
     - Stacked Barchart absolut
-    - TODO: Stacked Barchart relativ -> David
 
 - Subjektive Leistungseinschätzung (David)
     - Stacked Barcharts
