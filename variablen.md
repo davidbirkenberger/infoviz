@@ -17,7 +17,7 @@
 
 - Geschlecht (Manu)
     - horizontale Geschlechterpyramide aggregiert für den FB über die Jahre
-    - TODO: grouped barchart (jeweils ein balken für geschlecht nebeneinander pro jahr) -> Manu
+    - DONE: grouped barchart (jeweils ein balken für geschlecht nebeneinander pro jahr) -> Manu
 
 - Staatsangehörigkeit (David)
     - Area Chart über die Jahre
@@ -31,7 +31,8 @@
 
 - Beeinträchtigungen im Ablauf des Studiums (Manu)
     - Radar Chart
-    - TODO: sortierung in kategorie probieren (siehe unipaper) + Relativ machen -> Manu
+    - DONE: sortierung in kategorie probieren (siehe unipaper) + Relativ machen -> Manu
+    - NOTE: Soriterung ist gemacht, relativ ist auch vorhanden. Das Einfärben nach Kategrien ist leider ein riesen Aufwand 
 
 - Migrationshintergrund (David)
     - Linechart relativ
