@@ -11,7 +11,7 @@
     - Barchart Anzahl Studierende pro Studiengang 2024
     - Piechart Top 4 Anzahl Studierende pro Studiengang 2024
     - Treemap für alle Studiengänge
-
+--> Nochmal in die PLots schauen 
 - Alter (David)
     - Alterspyramide 2012 und 2024
 
