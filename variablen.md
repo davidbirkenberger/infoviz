@@ -43,7 +43,6 @@
 
 
 - Optional: 
-    - Rücklaufquote der einzelnen Fragen: Welche Fragen beantworten Studierende gerne. Bsp. Alter wird im  Vergleich nur von wenigen angegeben.
     - Stacked Barchart Gesamte Studierendenzahl/Rücklaufquote/Alter
     - Verschiedene Filter auf Radar Chart legen
 
